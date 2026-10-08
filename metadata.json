@@ -1,0 +1,6 @@
+{
+  "name": "Mimo - Havala te ya cani",
+  "description": "A super cute, friendly Kurdish voice companion speaking sweet Badini from Duhok! 🥺💜",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
